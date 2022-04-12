@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`MyComponent should create an entry in component state 1`] = `
+exports[`MyComponent should render initial layout 1`] = `
 Array [
   <div>
     <input
@@ -8,11 +8,5 @@ Array [
       type="text"
     />
   </div>,
-]
-`;
-
-exports[`MyComponent should render initial layout 1`] = `
-Array [
-  <div />,
 ]
 `;
